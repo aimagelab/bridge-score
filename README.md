@@ -1,4 +1,3 @@
-# birdge-score
 <div align="center">
   <h1>BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues (ECCV 2024) </h1>
 
