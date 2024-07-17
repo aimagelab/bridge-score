@@ -11,7 +11,7 @@ Please cite with the following BibTeX:
 @inproceedings{sarto2024bridge,
   title={{BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues}},
   author={Sarto, Sara and Cornia, Marcella and Baraldi, Lorenzo and Cucchiara, Rita},
-  booktitle={Proceedings of the IEEE/CVF European Conference on Computer Vision},
+  booktitle={Proceedings of the European Conference on Computer Vision},
   year={2024}
 }
 ```
