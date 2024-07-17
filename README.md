@@ -15,4 +15,7 @@ Please cite with the following BibTeX:
   year={2024}
 }
 ```
+<p align="center">
+  <img src="images/ECCV_final_model.png" alt="BRIDGE" width="820" />
+</p> 
  
